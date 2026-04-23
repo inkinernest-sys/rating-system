@@ -1,0 +1,5 @@
+{
+  "name": "Рейтинг",
+  "description": "Extract structured data from PDF files using Gemini AI and export directly to Google Sheets.",
+  "requestFramePermissions": []
+}
